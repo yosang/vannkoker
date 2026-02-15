@@ -7,7 +7,7 @@ As the water temperature rises, it starts to boil and produce steam. The way the
 - Steam rises and heats up the thermostat, when the thermostat gets hot enough it turns off the vannkoker.
 
 # Implementation
-We are going to send a smart vannkoker, that once it is done boiling water and turns off, sends of a push notification to our smart phone. This way we can start the vannkoker and get a notification on our phones that the water is ready.
+We are going to create a smart vannkoker, that once it is done boiling water and turns off, sends of a push notification to our smart phone. This way we can start the vannkoker and get a notification on our phones that the water is ready.
 
 - Publisher - The vannokoker class
     - Uses an `EventHandler` delegate
